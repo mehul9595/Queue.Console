@@ -1,0 +1,7 @@
+.vscode/
+QueueReceive/bin/
+QueueReceive/obj/
+QueueSend/bin/
+QueueSend/obj/
+QueueSend/appSettings.json
+QueueReceive/appSettings.json
